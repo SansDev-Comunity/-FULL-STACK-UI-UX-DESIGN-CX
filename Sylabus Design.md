@@ -4,6 +4,7 @@
 ### UX (User Experience)
 ### CX (Customer Experience)
 ### BX ( Brand Experience)
+### HX (Human Experience/Pengalaman Manusia)
 
 # 📌 BAGIAN 1 — FUNDAMENTAL DESIGN
 ## 1. Dasar-dasar Desain
