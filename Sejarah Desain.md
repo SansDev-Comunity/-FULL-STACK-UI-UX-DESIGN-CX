@@ -1,4 +1,4 @@
-# Sejarah desain UI, UX, CX, BX, dan HX 
+# Sejarah desain UI, UX, CX, BX & HX 
 
 berkembang seiring waktu, dari fokus pada efisiensi fungsional produk hingga pengalaman holistik yang melibatkan aspek emosional dan interaksi manusia secara luas.
 
