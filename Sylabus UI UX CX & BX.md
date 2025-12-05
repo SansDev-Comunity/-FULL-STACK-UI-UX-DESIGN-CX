@@ -1,5 +1,9 @@
-# 🎨 FULL STACK UI/UX DESIGN &amp; CX & BX COMPLETE SYLLABUS
+# 🎨 FULL STACK UI UX CX & BX Design Complate Sylabus
 
+# UI (User Interface)
+# UX (User Experience)
+# CX (Customer Experience)
+# BX ( Brand Experience)
 
 # 📌 BAGIAN 1 — FUNDAMENTAL DESIGN
 ## 1. Dasar-dasar Desain
